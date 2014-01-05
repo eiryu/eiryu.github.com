@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="description" content="Software Engineer">
+        <title>eiryu</title>
+
+        <script type="text/javascript" src="js/jquery-2.0.3.min.js"></script>
+        <script type="text/javascript" src="js/marked.js"></script>
+
+        <script>
+            $(function(){
+                var $target = $("#markdown_content");
+
+                $.ajax({
+                    url: "./eiryu.markdown",
+                }).success(function(data){
+                    $target.append(marked(data));
+                }).error(function(data){
+                    $target.append("This content failed to load.");
+                });
+            });
+        </script>
+    </head>
+
+    <body>
+        <div id="markdown_content" style="margin-left: 20px;"></div>
+    </body>
+</html>
