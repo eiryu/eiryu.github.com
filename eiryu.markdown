@@ -21,4 +21,4 @@ eiryu
 - [GitHub](https://github.com/eiryu)
 
 ### Works
-- [TwFav](http://twfav.excale.net) 
+- [TwFavView](http://twfavview.excale.net) 
