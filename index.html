@@ -13,7 +13,7 @@
                 var $target = $("#markdown_content");
 
                 $.ajax({
-                    url: "./eiryu.markdown",
+                    url: "./README.md",
                 }).success(function(data){
                     $target.append(marked(data));
                 }).error(function(data){
