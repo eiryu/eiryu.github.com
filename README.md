@@ -17,7 +17,7 @@ eiryu
 ### Account
 - [Twitter](http://twitter.com/eiryu)
 - [はてなダイアリー](http://d.hatena.ne.jp/eiryu9)
-- [blog](http://eiryu.com/mt/snippet)
+- [blog](http://blog.eiryu.com)
 - [GitHub](https://github.com/eiryu)
 
 ### Works
