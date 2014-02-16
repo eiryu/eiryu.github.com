@@ -10,6 +10,7 @@ eiryu
     - Spring Framework
     - Thymeleaf
     - Java EE
+- Groovy
 - PostgreSQL
 - jQuery
 - Opera(Presto)
