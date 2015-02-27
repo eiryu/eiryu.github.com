@@ -21,6 +21,7 @@ eiryu
 - [blog](http://blog.eiryu.com)
 - [GitHub](https://github.com/eiryu)
 - [slideshare](http://www.slideshare.net/eiryu)
+- [Qiita](http://qiita.com/eiryu)
 
 ### Works
 - [TwFavView](http://apps.eiryu.com/twfavview) 
