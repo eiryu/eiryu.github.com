@@ -23,4 +23,4 @@ eiryu
 - [slideshare](http://www.slideshare.net/eiryu)
 
 ### Works
-- [TwFavView](http://twfavview.excale.net) 
+- [TwFavView](http://apps.eiryu.com/twfavview) 
