@@ -5,13 +5,16 @@ eiryu
 ### About
 - Software engineer
 
-### Interest
+### Favorite
 - Java
-    - Spring Framework
-    - Java EE
 - Groovy
 - PostgreSQL
-- jQuery
+
+### Interest
+
+- React
+- BitCoin
+- Cloud Native
 
 ### Account
 - [Twitter](http://twitter.com/eiryu)
