@@ -12,9 +12,9 @@ eiryu
 
 ### Interest
 
-- React
-- BitCoin
 - Cloud Native
+- Bitcoin
+- Reactive Programming
 
 ### Account
 - [Twitter](http://twitter.com/eiryu)
