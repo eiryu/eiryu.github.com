@@ -23,6 +23,7 @@ eiryu
 - [GitHub](https://github.com/eiryu)
 - [slideshare](http://www.slideshare.net/eiryu)
 - [Qiita](http://qiita.com/eiryu)
+- [WikiHub](https://wikihub.io/@eiryu)
 
 ### Works
 - [TwFavView](http://apps.eiryu.com/twfavview) 
