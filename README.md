@@ -12,9 +12,7 @@ eiryu
 
 ### Interest
 
-- Cloud Native
-- Bitcoin
-- Reactive Programming
+- Heroku
 
 ### Account
 - [Twitter](http://twitter.com/eiryu)
