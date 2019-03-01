@@ -22,6 +22,8 @@ eiryu
 - [SlideShare](http://www.slideshare.net/eiryu)
 - [Qiita](http://qiita.com/eiryu)
 - [WikiHub](https://wikihub.io/@eiryu)
+- [YouTube](https://www.youtube.com/user/eiryu9)
+
 
 ### Works
 - [TwFavView](http://apps.eiryu.com/twfavview) 
