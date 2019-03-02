@@ -26,6 +26,6 @@ eiryu
 
 
 ### Works
-- [TwFavView](http://apps.eiryu.com/twfavview) 
+- [TwFavView](http://twfavview.eiryu.com) 
 - [Extractor](http://eiryu.com/extractor/)
 - [MAT（仮）](http://eiryu.com/mat/)
