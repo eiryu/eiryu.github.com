@@ -16,7 +16,8 @@ eiryu
 
 ### Account
 - [Twitter](http://twitter.com/eiryu)
-- [はてなブログ](http://d.hatena.ne.jp/eiryu9)
+- [blog（Medium）](https://medium.com/@eiryu)
+- [blog（はてなブログ）](http://d.hatena.ne.jp/eiryu9)
 - [blog](http://blog.eiryu.com)
 - [GitHub](https://github.com/eiryu)
 - [SlideShare](http://www.slideshare.net/eiryu)
