@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/eiryu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://eiryu.com
+  * I am eiryu (https://keybase.io/eiryu) on keybase.
+  * I have a public key ASDCzWLk5mOGtorwnclIEmBVQzosNB9JtQjaA9W1dylh0wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c4a1e058f21a2a59a80394d6e9b5e32d077c5371e875e437a4e91da7e1cf66970a",
+      "host": "keybase.io",
+      "kid": "0120c2cd62e4e66386b68af09dc948126055433a2c341f49b508da03d5b5772961d30a",
+      "uid": "c73afbfa59ee361226d76362946cfc19",
+      "username": "eiryu"
+    },
+    "merkle_root": {
+      "ctime": 1595530049,
+      "hash": "4b8711fa79a1a95c6ff39128a050eae144ca7df5fc6f935b9b0f6d58be3d40e3ba71eec1dc9806485c9ca89bef7416686309b2acefe33ad6ee6b38527d58cc95",
+      "hash_meta": "acab05f3bf4af8f5c48692f80bb2fb9900fc481c5a66e4c5802accfe6c2ed5b8",
+      "seqno": 17061658
+    },
+    "service": {
+      "entropy": "YJOQoFpdfeZaA1apF4z6zCIV",
+      "hostname": "eiryu.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1595530102,
+  "expire_in": 504576000,
+  "prev": "1404e23b852cefc1dd44e9a69f1295f172f8ee859106bdfb054c8f9e94984b25",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgws1i5OZjhraK8J3JSBJgVUM6LDQfSbUI2gPVtXcpYdMKp3BheWxvYWTESpcCCsQgFATiO4Us78HdROmmnxKV8XL47oWRBr37BUyPnpSYSyXEIIQuoUNsB/Pt1JKUMwcRhM456tSk47Zt9XawNJgKyiOmAgHCo3NpZ8RACytizWWGHe05LnjZQkKS2H3WHd/qQ1z8rz4IMmckUFC9iZ94q0jm5PAa5qv/MdS3+xaWja4UOLqwyr/dm6aQB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPCp6mJMpEEkVo5Cdaf6scWumuONvqM6n7JQX/sZfgPGo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/eiryu
+
+==================================================================
