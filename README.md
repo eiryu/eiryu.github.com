@@ -30,3 +30,4 @@ eiryu
 - [TwFavView](http://twfavview.eiryu.com) 
 - [Extractor](http://eiryu.com/extractor/)
 - [MAT（仮）](http://eiryu.com/mat/)
+- [article: 退屈なことはGroovyにやらせよう](https://tech.recruit-mp.co.jp/server-side/happy-groovy-life/)
