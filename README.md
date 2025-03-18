@@ -5,24 +5,17 @@ eiryu
 ### About
 - Software engineer
 
-### Favorite
-- Java
-- Groovy
-- PostgreSQL
-
-### Interest
-
-- Heroku
 
 ### Account
 - [Twitter](http://twitter.com/eiryu)
 - [blog（Medium）](https://medium.com/@eiryu)
 - [blog（はてなブログ）](http://d.hatena.ne.jp/eiryu9)
 - [blog](http://blog.eiryu.com)
+- [Cosense(旧Scrapbox)](https://scrapbox.io/eiryu/)
 - [GitHub](https://github.com/eiryu)
 - [SlideShare](http://www.slideshare.net/eiryu)
 - [Qiita](http://qiita.com/eiryu)
-- [WikiHub](https://wikihub.io/@eiryu)
+- [Zenn](https://zenn.dev/eiryu)
 - [YouTube](https://www.youtube.com/user/eiryu9)
 
 
