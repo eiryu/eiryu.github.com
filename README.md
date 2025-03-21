@@ -23,5 +23,6 @@ eiryu
 - [TwFavView](http://twfavview.eiryu.com) 
 - [Extractor](http://eiryu.com/extractor/)
 - [MAT（仮）](http://eiryu.com/mat/)
-- [article: 退屈なことはGroovyにやらせよう](https://tech.recruit-mp.co.jp/server-side/happy-groovy-life/)
-- [article: Jira APIと戯れる 〜チケット情報取得編〜](https://tech.recruit-mp.co.jp/dev-tools/jira-api-tickets/)
+- [article: 退屈なことはGroovyにやらせよう](https://techblog.recruit.co.jp/article-620/)
+- [article: Jira APIと戯れる 〜チケット情報取得編〜](https://techblog.recruit.co.jp/article-629/)
+- [article: Jira APIと戯れる 〜チケットの添付ファイルの一括ダウンロード編〜](https://techblog.recruit.co.jp/article-638/)
