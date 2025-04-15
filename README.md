@@ -8,6 +8,7 @@ eiryu
 
 ### Account
 - [Twitter](http://twitter.com/eiryu)
+- [blog（しずかなインターネット）](https://sizu.me/eiryu)
 - [blog（Medium）](https://medium.com/@eiryu)
 - [blog（はてなブログ）](http://d.hatena.ne.jp/eiryu9)
 - [blog](http://blog.eiryu.com)
